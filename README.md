@@ -1,10 +1,10 @@
-### yunsbzc shenanigans
+# yunsbzc shenanigans
 
 probably will be a dump of all my projects and work
 
-## book reviews 
+### book reviews 
 also thinking if i should add translations here 
 
-## movie/show reviews?
+### movie/show reviews?
 
-## and other projects ig 
+### and other projects ig 
